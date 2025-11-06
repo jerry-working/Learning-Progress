@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<PopMenuRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PopMenu hasDiesel="false" UID="ID_PM_8CA66">
+    <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+    <Alias>POP1</Alias>
+    <Name xlate="true" UID="ID_PM_NM_1432E">市政设计工具箱</Name>
+    <Description xlate="true" UID="ID_PM_DSCRP_7B66C" />
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_F15FC">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_7ABFB" xlate="true">登录</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_CC066" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_84094">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_6989B" xlate="true">注销</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_5BE84" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="true" hasDiesel="false" UID="ID_PMI_12025">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_3B6DD" xlate="true">
+      </NameRef>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_03E55">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_F9C99" xlate="true">图库</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_08F00" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_63EA4">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_817F8" xlate="true">词库</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_D2047" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="true" hasDiesel="false" UID="ID_PMI_028B2">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_0D384" xlate="true">
+      </NameRef>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_E5AC9">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_E7924" xlate="true">设置比例</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_13E75" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_7B60E">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_238EC" xlate="true">绘制管线</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_4E7E8" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_2837A">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_0B45B" xlate="true">管线打断</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_C3A73" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_97976">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_C69C1" xlate="true">管线标注</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_E22A8" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_806BF">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_BB647" xlate="true">工程统计</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_36283" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="true" hasDiesel="false" UID="ID_PMI_2271A">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_7C188" xlate="true">
+      </NameRef>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_D02C8">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_8E27A" xlate="true">错误日志</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_9EC7F" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_F9324">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_DBC92" xlate="true">在线更新</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_EF457" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_59CDD">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_7EC86" xlate="true">用户管理</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_DA493" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_4D4DB">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_9D4F3" xlate="true">修改密码</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_F15A7" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_2BECC">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_3DE07" xlate="true">服务器配置</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_0DE53" />
+      </MenuItem>
+    </PopMenuItem>
+  </PopMenu>
+</PopMenuRoot>

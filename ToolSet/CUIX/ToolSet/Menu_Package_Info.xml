@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MenuPackageParts>
+  <PartData PartData_Name="/Header.cui" PartData_Modified="2024-08-15T09:52:03.8663365+08:00" />
+  <PartData PartData_Name="/WorkspaceRoot.cui" PartData_Modified="2024-08-15T09:52:03.8673366+08:00" />
+  <PartData PartData_Name="/MenuGroup.cui" PartData_Modified="2024-08-15T09:52:03.8683365+08:00" />
+  <PartData PartData_Name="/AcceleratorRoot.cui" PartData_Modified="2024-08-15T09:52:03.8693365+08:00" />
+  <PartData PartData_Name="/OverrideRoot.cui" PartData_Modified="2024-08-15T09:52:03.8703365+08:00" />
+  <PartData PartData_Name="/MouseButtonRoot.cui" PartData_Modified="2024-08-15T09:52:03.8713365+08:00" />
+  <PartData PartData_Name="/PopMenuRoot.cui" PartData_Modified="2024-08-15T09:52:03.8723365+08:00" />
+  <PartData PartData_Name="/ToolbarRoot.cui" PartData_Modified="2024-08-15T09:52:03.8733365+08:00" />
+  <PartData PartData_Name="/DoubleClickRoot.cui" PartData_Modified="2024-08-15T09:52:03.8733365+08:00" />
+  <PartData PartData_Name="/QuickPropertiesRoot.cui" PartData_Modified="2024-08-15T09:52:03.8743365+08:00" />
+  <PartData PartData_Name="/RolloverTooltipRoot.cui" PartData_Modified="2024-08-15T09:52:03.8873365+08:00" />
+  <PartData PartData_Name="/RibbonRoot.cui" PartData_Modified="2024-08-15T09:52:03.8883366+08:00" />
+  <PartData PartData_Name="/QuickAccessToolbarRoot.cui" PartData_Modified="2024-08-15T09:52:03.8893370+08:00" />
+  <PartData PartData_Name="/ToolPanelRoot.cui" PartData_Modified="2024-08-15T09:52:03.8893370+08:00" />
+  <PartData PartData_Name="/PanelSetRoot.cui" PartData_Modified="2024-08-15T09:52:03.8913365+08:00" />
+  <PartData PartData_Name="/ScreenMenuRoot.cui" PartData_Modified="2024-08-15T09:52:03.8913365+08:00" />
+  <PartData PartData_Name="/ImageMenuRoot.cui" PartData_Modified="2024-08-15T09:52:03.8923365+08:00" />
+  <PartData PartData_Name="/TabletMenuRoot.cui" PartData_Modified="2024-08-15T09:52:03.8943366+08:00" />
+  <PartData PartData_Name="/DigitizerButtonRoot.cui" PartData_Modified="2024-08-15T09:52:03.8943366+08:00" />
+  <PartData PartData_Name="/LSPFiles.cui" PartData_Modified="2024-08-15T09:52:03.8943366+08:00" />
+  <PartData PartData_Name="/VirtualMNRRoot" PartData_Modified="2024-08-15T09:52:03.8943366+08:00" />
+  <PartData PartData_Name="/Menu_Package_Info.xml" PartData_Modified="2024-08-15T09:52:03.8963365+08:00" />
+</MenuPackageParts>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\localuser\\Desktop\\\u6574\u7406\\\u5DE5\u5177\\zw3d\u754C\u9762\\Tool_zcui\\Z3Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82B65D11-6DB4-475C-8C90-E3D76B91307D}|Z3Demo.vcxproj|D:\\Users\\localuser\\Desktop\\\u6574\u7406\\\u5DE5\u5177\\zw3d\u754C\u9762\\Tool_zcui\\Z3Demo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82B65D11-6DB4-475C-8C90-E3D76B91307D}|Z3Demo.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Users\\localuser\\Desktop\\\u6574\u7406\\\u5DE5\u5177\\zw3d\u754C\u9762\\Tool_zcui\\Z3Demo\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\Users\\localuser\\Desktop\\\u6574\u7406\\\u5DE5\u5177\\zw3d\u754C\u9762\\Tool_zcui\\Z3Demo\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-11T02:58:47.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Actions system="false">
+	<Action#List prefixKey="{8c8b9709-11b6-49e6-9012-1ccfb9928649}">
+		<Action name="ID_Action1" type="button">
+			<Form />
+			<Text>
+				<Ribbon>hello</Ribbon>
+				<Menu>hello</Menu>
+			</Text>
+			<Icon />
+			<Hint>hello</Hint>
+			<Help />
+			<Desc>hello</Desc>
+			<Script>hello</Script>
+		</Action>
+	</Action#List>
+</Actions>

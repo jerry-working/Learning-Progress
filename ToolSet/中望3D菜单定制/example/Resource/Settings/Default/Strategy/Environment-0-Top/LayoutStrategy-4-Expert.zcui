@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Strategy profileType="UIProfile" environment="0" role="4-Expert">
+	<DefaultCustomizations>
+		<Insert type="RibbonPage" name="RIBBON_PAGE1" topCollection="Layout_0_Top" leftSibling="#InsertAtLast"></Insert>
+	</DefaultCustomizations>
+</Strategy>

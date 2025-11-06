@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<CustSection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileVersion MajorVersion="0" MinorVersion="6" IncrementalVersion="1" UserVersion="1" />
+  <Header>
+    <CommonConfiguration>
+      <CommonItems>
+        <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+        <PartialMenuFile>APP+.CUIX</PartialMenuFile>
+        <PartialMenuFile>ZWCAD.CUIX</PartialMenuFile>
+      </CommonItems>
+    </CommonConfiguration>
+  </Header>
+</CustSection>

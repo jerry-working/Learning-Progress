@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RibbonPages>
+	<RibbonPage name="RIBBON_PAGE1" text="凯锐PLM" visible="true">
+		<RibbonGroup name="RIBBON_PAGE1_GROUP1" text = "凯锐PLM" visible="true">
+			<GroupPanel name="RIBBON_PAGE1_GROUP1_PANEL1">
+				<Control action="ID_~ConnectServer" visible="true" buttonStyle="4" />
+				<Control action="ID_~OpenWorkspace" visible="true" buttonStyle="4" />
+				<Control action="ID_~OpenFromPlm" visible="true" buttonStyle="4" />
+				<Control action="ID_~AssemblyFromPlm" visible="true" buttonStyle="4" />
+				<Control action="ID_~ImportToWorkspace" visible="true" buttonStyle="4" />
+			</GroupPanel>
+		</RibbonGroup>
+	</RibbonPage>
+	
+</RibbonPages>

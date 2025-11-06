@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RibbonPages>
+	<RibbonPage name="RIBBON_PAGE1" text="测试命令1" visible="true">
+		<RibbonGroup name="RIBBON_PAGE1_GROUP1" text = "1组" visible="true">
+			<GroupPanel name="RIBBON_PAGE1_GROUP1_PANEL1">
+				<Control action="ID_~CommandA" visible="true" buttonStyle="4" />
+				<Control action="ID_~CommandB" visible="true" buttonStyle="4" />
+			</GroupPanel>
+		</RibbonGroup>
+	</RibbonPage>
+	
+	<RibbonPage name="RIBBON_PAGE2" text="测试命令2" visible="true">
+		<RibbonGroup name="RIBBON_PAGE1_GROUP1" text = "2组" visible="true">
+			<GroupPanel name="RIBBON_PAGE1_GROUP1_PANEL1">
+				<Control action="ID_~CommandC" visible="true" buttonStyle="4" />
+			</GroupPanel>
+		</RibbonGroup>
+	</RibbonPage>
+</RibbonPages>

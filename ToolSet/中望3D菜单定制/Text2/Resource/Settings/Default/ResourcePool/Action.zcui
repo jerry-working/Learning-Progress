@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Actions system="false">
+	<Action name="ID_~CommandA" type="button">
+		<Form />
+		<Text>
+			<Ribbon>功能1</Ribbon>
+			<Menu>功能1</Menu>
+		</Text>
+		<Icon>1</Icon>
+		<Hint>这是1</Hint>
+		<Help />
+		<Desc />
+		<Script>~aaaaaa</Script>
+	</Action>
+	<Action name="ID_~CommandB" type="button">
+		<Form />
+		<Text>
+			<Ribbon>功能2</Ribbon>
+			<Menu>功能2</Menu>
+		</Text>
+		<Icon>2</Icon>
+		<Hint>这是2</Hint>
+		<Help />
+		<Desc />
+		<Script>~bbbbbb</Script>
+	</Action>
+	<Action name="ID_~CommandC" type="button">
+		<Form />
+		<Text>
+			<Ribbon>功能3</Ribbon>
+			<Menu>功能3</Menu>
+		</Text>
+		<Icon>3</Icon>
+		<Hint>这是3</Hint>
+		<Help />
+		<Desc />
+		<Script>~cccccc</Script>
+	</Action>
+</Actions>

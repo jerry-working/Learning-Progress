@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Strategy profileType="UIProfile" environment="10" role="4-Expert">
+	<UserCustomizations>
+		<Insert type="RibbonPage" name="ID_{8c8b9709-11b6-49e6-9012-1ccfb9928649}Widget5" topCollection="Layout_10_Part" leftSibling="#InsertAtLast" posValue="1073741823">
+			<property text="page" visible="true" />
+		</Insert>
+		<Insert type="RibbonGroup" name="ID_{8c8b9709-11b6-49e6-9012-1ccfb9928649}Widget6" topParent="ID_{8c8b9709-11b6-49e6-9012-1ccfb9928649}Widget5" parent="ID_{8c8b9709-11b6-49e6-9012-1ccfb9928649}Widget5" leftSibling="#InsertAtLast" posValue="1073741823">
+			<property text="group" visible="true" />
+		</Insert>
+		<Insert type="GroupPanel" name="ID_{8c8b9709-11b6-49e6-9012-1ccfb9928649}Widget6_GroupPanel" topParent="ID_{8c8b9709-11b6-49e6-9012-1ccfb9928649}Widget5" parent="ID_{8c8b9709-11b6-49e6-9012-1ccfb9928649}Widget6" />
+		<Insert type="Control" name="ID_{8c8b9709-11b6-49e6-9012-1ccfb9928649}Action1" topParent="ID_{8c8b9709-11b6-49e6-9012-1ccfb9928649}Widget5" parent="ID_{8c8b9709-11b6-49e6-9012-1ccfb9928649}Widget6_GroupPanel" leftSibling="#InsertAtLast" posValue="1073741823">
+			<property buttonStyle="4" visible="true" />
+		</Insert>
+	</UserCustomizations>
+</Strategy>

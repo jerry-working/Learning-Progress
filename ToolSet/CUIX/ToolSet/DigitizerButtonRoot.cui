@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<DigitizerButtonRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ButtonGroup UID="BGU_243_2D669">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE BUTTONS1</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_6E3D6" />
+  </ButtonGroup>
+  <ButtonGroup UID="BGU_243_F50E4">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE BUTTONS2</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_2ECD9" />
+  </ButtonGroup>
+  <ButtonGroup UID="BGU_243_E7484">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE BUTTONS3</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_93255" />
+  </ButtonGroup>
+  <ButtonGroup UID="BGU_243_4A19F">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE BUTTONS4</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_D4F50" />
+  </ButtonGroup>
+</DigitizerButtonRoot>

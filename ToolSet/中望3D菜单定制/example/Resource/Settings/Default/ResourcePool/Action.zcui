@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Actions system="false">
+	<Action name="ID_~ConnectServer" type="button">
+		<Form />
+		<Text>
+			<Ribbon>连接服务器</Ribbon>
+			<Menu>连接服务器</Menu>
+		</Text>
+		<Icon>ConnectServer</Icon>
+		<Hint></Hint>
+        <Help></Help>
+        <Desc></Desc>
+		<Script>~ConnectServer</Script>
+	</Action>
+    <Action name="ID_~OpenWorkspace" type="button">
+		<Form />
+		<Text>
+			<Ribbon>打开工作区</Ribbon>
+			<Menu>打开工作区</Menu>
+		</Text>
+		<Icon>OpenWorkspace</Icon>
+		<Hint></Hint>
+        <Help></Help>
+        <Desc></Desc>
+		<Script>~OpenWorkspace</Script>
+	</Action>
+    <Action name="ID_~OpenFromPlm" type="button">
+		<Form />
+		<Text>
+			<Ribbon>从服务器打开</Ribbon>
+			<Menu>从服务器打开</Menu>
+		</Text>
+		<Icon>OpenFromPlm</Icon>
+		<Hint></Hint>
+        <Help></Help>
+        <Desc></Desc>
+		<Script>~OpenFromPlm</Script>
+	</Action>
+    <Action name="ID_~AssemblyFromPlm" type="button">
+        <Form />
+        <Text>
+            <Ribbon>从服务器装配</Ribbon>
+            <Menu>从服务器装配</Menu>
+        </Text>
+        <Icon>AssemblyFromPlm</Icon>
+        <Hint></Hint>
+        <Help></Help>
+        <Desc></Desc>
+        <Script>~AssemblyFromPlm</Script>
+	</Action>
+	<Action name="ID_~ImportToWorkspace" type="button">
+        <Form />
+        <Text>
+            <Ribbon>导入到工作区</Ribbon>
+            <Menu>导入到工作区</Menu>
+        </Text>
+        <Icon>ImportToWorkspace</Icon>
+        <Hint></Hint>
+        <Help></Help>
+        <Desc></Desc>
+        <Script>~ImportToWorkspace</Script>
+	</Action>
+		
+</Actions>

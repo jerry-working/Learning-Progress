@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PopMenuRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PopMenu hasDiesel="false" UID="ID_PM_8CA66">
+    <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+    <Alias>POP1</Alias>
+    <Name xlate="true" UID="ID_PM_NM_1432E">元琅工具箱</Name>
+    <Description xlate="true" UID="ID_PM_DSCRP_7B66C" />
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_F15FC">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_7ABFB" xlate="true">BOM表提取</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_6F654" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_84094">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_6989B" xlate="true">BOM表设置</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_3EEA9" />
+      </MenuItem>
+    </PopMenuItem>
+  </PopMenu>
+</PopMenuRoot>

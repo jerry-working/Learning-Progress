@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!--
+警告！请勿编辑此文件的内容。
+如果试图使用 XML 编辑器来编辑此文件，可能会丢失
+自定义和移植功能。如果需要修改
+自定义文件中的信息，请使用产品中的
+“自定义用户界面”对话框。
+若要访问“自定义用户界面”对话框，请依次单击“工具”菜单、
+“自定义”面板和“用户界面”按钮，或者在命令行中输入 CUI。
+-->
+<RibbonRoot>
+  <RibbonPanelSourceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <RibbonPanelSource UID="ID_RBPS_93A46" Text="总图设计" HiddenInEditor="false">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <Name xlate="true" UID="ID_RBPS_NM_F2524">分布式光伏设计工具箱</Name>
+      <DialogBoxLauncher UID="ID_RBPS_DBLR_3FD0C" CommandID="" CommandType="Macro">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="0" />
+      </DialogBoxLauncher>
+      <RibbonRow UID="ID_RBRW_CCE01">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <RibbonSplitButton UID="ID_RBTN_9C5F8" Id="ZwRibbonSplitButton" Text="水平屋顶" Behavior="SplitFollowStaticText" ListStyle="IconText" ButtonStyle="LargeWithText" Grouping="false">
+	  		<ModifiedRev MajorVersion="18" MinorVersion="0" UserVersion="0" />
+        <RibbonCommandButton UID="ID_RBTN_9EB7A" Id="ZwRibbonCommandButton" Text="矩形水平屋顶" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_CC066" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_403EA">矩形水平屋顶</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_F0C46" Id="ZwRibbonCommandButton" Text="多边形水平屋顶" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_5BE84" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_59BD4">多边形水平屋顶</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+         </RibbonSplitButton>
+        <RibbonCommandButton UID="ID_RBTN_5BEFA" Id="ZwRibbonCommandButton" Text="单面斜屋顶" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_08F00" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_2972D">单面斜屋顶</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+		<RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="双面斜屋顶" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2047" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">双面斜屋顶</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+
+        <RibbonSplitButton UID="ID_RBTN_9C5F9" Id="ZwRibbonSplitButton" Text="采光带" Behavior="SplitFollowStaticText" ListStyle="IconText" ButtonStyle="LargeWithText" Grouping="false">
+	  		<ModifiedRev MajorVersion="18" MinorVersion="0" UserVersion="0" />
+		<RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="识别采光带" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2048" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">识别采光带</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="绘制采光带" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2049" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">绘制采光带</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="布置采光带" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2050" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">布置采光带</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        </RibbonSplitButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="长方体" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2051" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">长方体</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="圆柱体" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2052" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">圆柱体</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="正多边体" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2053" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">正多边体</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="特殊构筑物" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2054" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">特殊构筑物</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="女儿墙" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2055" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">女儿墙</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="屋顶编号" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2056" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">屋顶编号</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="可布置区域" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2057" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">可布置区域</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="不可布置区域" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2058" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">不可布置区域</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="布置电池板" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2059" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">布置电池板</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="布置支架" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2060" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">布置支架</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="布置导轨" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2061" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">布置导轨</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="阴影分析" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2062" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">阴影分析</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+    </RibbonRow>
+      <RibbonPanelBreak UID="ID_RPBRK_92F9B" Id="AcRibbonPanelBreak">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      </RibbonPanelBreak>
+    </RibbonPanelSource>
+  </RibbonPanelSourceCollection>
+  <RibbonTabSourceCollection>
+    <RibbonTabSource Text="分布式光伏设计工具箱" UID="ID_RBTS_91650" DisplayType="Full" DefaultDisplay="AddToWorkspace" WorkspaceBehavior="MergeOrAddTab">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <Name xlate="true" UID="ID_RBTS_NM_96C90">分布式光伏设计工具箱</Name>
+      <RibbonPanelSourceReference UID="ID_RBPSREF_95F2E" PanelId="ID_RBPS_93A46" ResizeStyle="Default">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      </RibbonPanelSourceReference>
+    </RibbonTabSource>
+  </RibbonTabSourceCollection>
+  <RibbonTabSelectors />
+</RibbonRoot>

@@ -1,0 +1,9 @@
+﻿  pch.cpp
+D:\Program Files\Zwsoft\ZW3D 2026\api\inc\zwapi_util.h(2001,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“pch.cpp”)
+  
+  dllmain.cpp
+  main.cpp
+  正在生成代码...
+    正在创建库 D:\Users\localuser\Desktop\整理\工具\zw3d界面\Tool_zcui\Z3Demo\x64\Debug\Z3Demo.lib 和对象 D:\Users\localuser\Desktop\整理\工具\zw3d界面\Tool_zcui\Z3Demo\x64\Debug\Z3Demo.exp
+  Z3Demo.vcxproj -> D:\Users\localuser\Desktop\整理\工具\zw3d界面\Tool_zcui\Z3Demo\x64\Debug\Z3Demo.dll

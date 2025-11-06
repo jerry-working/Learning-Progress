@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<TabletMenuRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TabletMenu TabletArea="9" Rows="3" Columns="3" UID="TMU_243_E28A7">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>Alternate “数字化仪”菜单 1</Alias>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_C38EA">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_F1FF9">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_A4A71">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_C0083">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_75B91">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_CD376">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_2EE5B">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_DC8CD">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_F6AC2">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+  </TabletMenu>
+  <TabletMenu TabletArea="9" Rows="3" Columns="3" UID="TMU_243_94901">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>Alternate “数字化仪”菜单 2</Alias>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_95856">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_20E49">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_C5140">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_26656">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_6A698">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_4529A">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_010D4">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_C7D87">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_316E8">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+  </TabletMenu>
+  <TabletMenu TabletArea="9" Rows="3" Columns="3" UID="TMU_243_95FC2">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>Alternate “数字化仪”菜单 3</Alias>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_8DB44">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_4CA99">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_A7AD4">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_7668F">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_F0A72">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_6EBF4">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_FDCEC">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_F31C3">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_D9939">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+  </TabletMenu>
+  <TabletMenu TabletArea="9" Rows="3" Columns="3" UID="TMU_243_885DC">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>Alternate “数字化仪”菜单 4</Alias>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_00234">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_12A32">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_62FAE">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_4AD61">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_2DB62">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_19488">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_E0A7D">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_95BC0">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+    <TabletMenuItem BlankLine="true" UID="TMIU_243_87E9F">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </TabletMenuItem>
+  </TabletMenu>
+</TabletMenuRoot>

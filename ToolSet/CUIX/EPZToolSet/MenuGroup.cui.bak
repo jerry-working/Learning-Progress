@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<!--
+警告！请勿编辑此文件的内容。
+如果试图使用 XML 编辑器来编辑此文件，可能会丢失
+自定义和移植功能。如果需要修改
+自定义文件中的信息，请使用产品中的
+“自定义用户界面”对话框。
+若要访问“自定义用户界面”对话框，请依次单击“工具”菜单、
+“自定义”面板和“用户界面”按钮，或者在命令行中输入 CUI。
+-->
+<MenuGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="EPZTOOLSET">
+  <MacroGroup Name="NEWGROUP" />
+  <MacroGroup Name="User" Citizen="Z">
+    <MenuMacro UID="ID_MM_CC066">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_BD637">设备管理</Name>
+        <Command>^C^CEpz_DeviceManager</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_C4AA6"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_DeviceManager.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_8E814">Epz_DeviceManager</CLICommand>
+      </Macro>
+    </MenuMacro>
+    
+    <MenuMacro UID="ID_MM_BV765">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_9F99F">设置比例</Name>
+        <Command>^C^CEpz_ExpLosiveGas</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_D87D7"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_ExpLosiveGas.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B6081">Epz_ExpLosiveGas</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_BG973">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_9F99F">设置爆炸区填充是否合并</Name>
+        <Command>^C^CEpz_ExpLosiveGas</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_D87D7"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_ExpLosiveGas.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B6081">Epz_ExpLosiveGas</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_5YU75">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_9F99F">设置填充样式</Name>
+        <Command>^C^CEpz_ExpLosiveGas</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_D87D7"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_ExpLosiveGas.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B6081">Epz_ExpLosiveGas</CLICommand>
+      </Macro>
+    </MenuMacro>
+    
+    <MenuMacro UID="ID_MM_5BE84">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_9F99F">爆炸性气体释放源定义</Name>
+        <Command>^C^CEpz_ExpLosiveGas</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_D87D7"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_ExpLosiveGas.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B6081">Epz_ExpLosiveGas</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_C5T154">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_2C17F">爆炸性粉尘释放源定义</Name>
+        <Command>^C^CEpz_ExpLosiveDust</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_4B51C"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_ExpLosiveDust.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_7260C">Epz_ExpLosiveDust</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_08F00">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">生成平面区域</Name>
+        <Command>^C^CEpz_GeneratePlane</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_GeneratePlane.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">Epz_GeneratePlane</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_D2047">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_16F59">常规立面设计</Name>
+        <Command>^C^CEpz_ConventionFacade</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_60F04"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_ConventionFacade.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_D7A92">Epz_ConventionFacade</CLICommand>
+      </Macro>
+    </MenuMacro>
+	<MenuMacro UID="ID_MM_C3A73">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_B7A57">储罐立面设计</Name>
+        <Command>^C^CEpz_TankFacade</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_B720F"></HelpString>
+        <LargeImage Name="Epz_TankFacade.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_34C58">Epz_TankFacade</CLICommand>
+      </Macro>
+    </MenuMacro>
+    
+    <MenuMacro UID="ID_MM_4E7E8">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_B7A57">开顶罐或池立面设计</Name>
+        <Command>^C^CEpz_OpentopTank</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_B720F"></HelpString>
+        <LargeImage Name="Epz_OpentopTank.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_34C58">Epz_OpentopTank</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <!--
+    <MenuMacro UID="ID_MM_4E7E8">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_F6B9D">开顶罐或池立面设计</Name>
+        <Command>^C^CEpz_OpentopTank</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_617FB"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_OpentopTank.bmp" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B129E">Epz_OpentopTank</CLICommand>
+      </Macro>
+    </MenuMacro>
+    -->
+    <MenuMacro UID="ID_MM_EF457">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_FF2C7">压缩机厂房立面设计</Name>
+        <Command>^C^CEpz_CompressorPlant</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_DFCEA"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_CompressorPlant.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_C4493">Epz_CompressorPlant</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_F5T241">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_FF2C7">爆炸性粉尘立面设计</Name>
+        <Command>^C^CEpz_DustFacade</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_DFCEA"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_DustFacade.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_C4493">Epz_DustFacade</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_E22A8">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_5F6CC">生成立面区域</Name>
+        <Command>^C^CEPZ_GENERATEFACADE</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_1FFBD"></HelpString>
+        <LargeImage Name="EPZ_GENERATEFACADE.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_7AC08">EPZ_GENERATEFACADE</CLICommand>
+      </Macro>
+    </MenuMacro>
+  	
+  
+    <MenuMacro UID="ID_MM_4T5A4">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_D9055">封闭区定义</Name>
+        <Command>^C^CEpz_DefOfClosedRegion</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_F6A40"></HelpString>
+        <LargeImage Name="Epz_DefOfClosedRegion.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_9A6CB">Epz_DefOfClosedRegion</CLICommand>
+      </Macro>
+    </MenuMacro>
+	
+	<MenuMacro UID="ID_MM_4U5B8">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_D9055">防爆区合并</Name>
+        <Command>^C^CEpz_MergePlane</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_F6A40"></HelpString>
+        <LargeImage Name="Epz_MergePlane.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_9A6CB">Epz_MergePlane</CLICommand>
+      </Macro>
+    </MenuMacro>
+	
+  <MenuMacro UID="ID_MM_5K8L9">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_D9055">规范图例调用</Name>
+        <Command>^C^CEpz_RuleLegend</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_F6A40"></HelpString>
+        <LargeImage Name="Epz_RuleLegend.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_9A6CB">Epz_RuleLegend</CLICommand>
+      </Macro>
+    </MenuMacro>
+
+	<MenuMacro UID="ID_MM_FT5Y6">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_F6B9D">移除释放源</Name>
+        <Command>^C^CEpz_EraseSourceOfRelease</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_617FB"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_EraseSourceOfRelease.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B129E">Epz_EraseSourceOfRelease</CLICommand>
+      </Macro>
+    </MenuMacro>
+
+    <MenuMacro UID="ID_MM_6F7G4">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_F6B9D">释放源统计</Name>
+        <Command>^C^CEpz_ReleaseSrcStatistics </Command>
+        <HelpString xlate="true" UID="ID_MM_HS_617FB"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_ReleaseSrcStatistics.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B129E">Epz_ReleaseSrcStatistics </CLICommand>
+      </Macro>
+    </MenuMacro>
+
+    <MenuMacro UID="ID_MM_DA493">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_F3C1C">防爆区尺寸标注</Name>
+        <Command>^C^CEpz_DoSizeDimension</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_76C82"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_DoSizeDimension.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_447F6">Epz_DoSizeDimension</CLICommand>
+      </Macro>
+    </MenuMacro>
+     <MenuMacro UID="ID_MM_0DE53">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_37F96">气体等级标注</Name>   
+        <Command>^C^CEpz_DoGradeDimension</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_1054B"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_DoGradeDimension.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_DB06E">Epz_DoGradeDimension</CLICommand>
+      </Macro>
+    </MenuMacro>
+    
+    <MenuMacro UID="ID_MM_GX528">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_F3C1C">设备放置标注</Name>
+        <Command>^C^CEpz_DoSizeDimension</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_76C82"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_DoSizeDimension.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_447F6">Epz_DoSizeDimension</CLICommand>
+      </Macro>
+    </MenuMacro>
+    
+	<MenuMacro UID="IID_MM_DW7P9">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_C309A">导入XML</Name>
+        <Command>^C^CEpz_ImportRuleXML </Command>
+        <HelpString xlate="true" UID="ID_MM_HS_7FCC4"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_ImportRuleXML.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_8E038">Epz_ImportRuleXML</CLICommand>
+      </Macro>
+    </MenuMacro>
+     <MenuMacro UID="ID_MM_9F6B3">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_37F96">导出XML</Name>
+        <Command>^C^CEpz_ExportRuleXML</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_1054B"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="Epz_ExportRuleXML.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_DB06E">Epz_ExportRuleXML</CLICommand>
+      </Macro>
+    </MenuMacro>
+
+  </MacroGroup>
+</MenuGroup>

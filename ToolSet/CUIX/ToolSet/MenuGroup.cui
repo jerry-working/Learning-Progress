@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<MenuGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="TOOLSET">
+  <MacroGroup Name="NEWGROUP" />
+  <MacroGroup Name="User" Citizen="Z">
+    <MenuMacro UID="ID_MM_CC066">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_BD637">登录</Name>
+        <Command>^C^CLogin</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_C4AA6" />
+        <SmallImage Name="" />
+        <LargeImage Name="Login.bmp" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_8E814">Login</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_5BE84">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_9F99F">注销</Name>
+        <Command>^C^CLogout</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_D87D7" />
+        <SmallImage Name="" />
+        <LargeImage Name="Logout.bmp" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B6081">Logout</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_08F00">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_2C17F">图库</Name>
+        <Command>^C^CCloudLibrary</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_4B51C" />
+        <SmallImage Name="" />
+        <LargeImage Name="CloudLibrary.bmp" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_7260C">CloudLibrary</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_DA493">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">用户管理</Name>
+        <Command>^C^CuserManager</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676" />
+        <SmallImage Name="" />
+        <LargeImage Name="userManager.bmp" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">userManager</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_0DE53">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_16F59">服务器配置</Name>
+        <Command>^C^CUpdCloudLibraryServerURL</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_60F04" />
+        <SmallImage Name="" />
+        <LargeImage Name="UpdCloudLibraryServerURL.bmp" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_D7A92">UpdCloudLibraryServerURL</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_71286">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_B7A57">管线统计</Name>
+        <Command>^C^CPIPELINEBOM</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_B720F" />
+        <LargeImage Name="PIPELINEBOM.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_34C58">PIPELINEBOM</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_36283">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_5F6CC">图块统计</Name>
+        <Command>^C^CBlockBOM</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_1FFBD" />
+        <LargeImage Name="BlockBOM.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_7AC08">BlockBOM</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_4E7E8">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_D9055">绘制管线</Name>
+        <Command>^C^CPIPELINE</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_F6A40" />
+        <LargeImage Name="PIPELINE.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_9A6CB">PIPELINE</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_F15A7">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_9FD24">修改密码</Name>
+        <Command>^C^CChangePsw</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_2A735" />
+        <SmallImage Name="" />
+        <LargeImage Name="ChangePsw.bmp" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B790B">ChangePsw</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_EF457">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_F6B9D">在线更新</Name>
+        <Command>^C^COnlineUpdate</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_617FB" />
+        <SmallImage Name="" />
+        <LargeImage Name="OnlineUpdate.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B129E">OnlineUpdate</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_9EC7F">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_F3C1C">错误日志</Name>
+        <Command>^C^CErrorLog</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_76C82" />
+        <SmallImage Name="" />
+        <LargeImage Name="Errorlog.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_447F6">ErrorLog</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_E22A8">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_37F96">管线标注</Name>
+        <Command>^C^CPIPELINEDIMENSION</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_1054B" />
+        <SmallImage Name="" />
+        <LargeImage Name="PIPELINEDIMENSION.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_DB06E">PIPELINEDIMENSION</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_D2047">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_C309A">词库</Name>
+        <Command>^C^CCloudDict</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_7FCC4" />
+        <SmallImage Name="" />
+        <LargeImage Name="CloudDict.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_8E038">CloudDict</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_4281B">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_AE135">合并表格</Name>
+        <Command>^C^CMergeTables</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_19A05" />
+        <SmallImage Name="" />
+        <LargeImage Name="MergeTables.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_A8059">MergeTables</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_C3A73">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_FF2C7">管线打断</Name>
+        <Command>^C^CPIPELINEBREAK</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_DFCEA" />
+        <SmallImage Name="" />
+        <LargeImage Name="PIPELINEBREAK.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_C4493">PIPELINEBREAK</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_13E75">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_52529">设置比例</Name>
+        <Command>^C^CSetScale</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_346CC" />
+        <SmallImage Name="" />
+        <LargeImage Name="SetScale.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_2648A">SetScale</CLICommand>
+      </Macro>
+    </MenuMacro>
+  </MacroGroup>
+</MenuGroup>

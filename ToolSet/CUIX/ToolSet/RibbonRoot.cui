@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<RibbonRoot>
+  <RibbonPanelSourceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <RibbonPanelSource UID="ID_RBPS_93A46" Text="设计中心" HiddenInEditor="false">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <Name xlate="true" UID="ID_RBPS_NM_F2524">市政设计工具箱</Name>
+      <DialogBoxLauncher UID="ID_RBPS_DBLR_3FD0C" CommandID="" CommandType="Macro">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="0" />
+      </DialogBoxLauncher>
+      <RibbonRow UID="ID_RBRW_CCE01">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <RibbonCommandButton UID="ID_RBTN_9EB7A" Id="ZwRibbonCommandButton" Text="登录" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_CC066" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_403EA">登录</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_F0C46" Id="ZwRibbonCommandButton" Text="注销" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_5BE84" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_59BD4">注销</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonSeparator UID="ID_RSPTR_A2A15" Id="ZwRibbonSeparator" SeparatorStyle="Line">
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonSeparator>
+        <RibbonCommandButton UID="ID_RBTN_5BEFA" Id="ZwRibbonCommandButton" Text="图库" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_08F00" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_2972D">图库词库面板</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="ZwRibbonCommandButton" Text="词库" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2047" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">图库词库面板</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonSeparator UID="ID_RSPTR_53CAB" Id="ZwRibbonSeparator" SeparatorStyle="Line">
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonSeparator>
+        <RibbonCommandButton UID="ID_RBTN_C6793" Id="ZwRibbonCommandButton" Text="设置比例" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_13E75" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_A0AC7">设置比例</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_077B9" Id="ZwRibbonCommandButton" Text="绘制管线" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_4E7E8" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_2535D">绘制管线</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_F0B52" Id="ZwRibbonCommandButton" Text="管线打断" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_C3A73" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_E18C8">管线打断</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_B10BE" Id="ZwRibbonCommandButton" Text="管线标注" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_E22A8" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_81747">管线标注</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_28D30" Id="ZwRibbonCommandButton" Text="工程统计" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_36283" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_92FC6">工程统计</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonSeparator UID="ID_RSPTR_CEDA8" Id="ZwRibbonSeparator" SeparatorStyle="Line">
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonSeparator>
+        <RibbonCommandButton UID="ID_RBTN_5298B" Id="ZwRibbonCommandButton" Text="错误日志" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_9EC7F" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_C7DD5">错误日志</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_ED972" Id="ZwRibbonCommandButton" Text="在线更新" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_EF457" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_E4618">在线更新</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_19706" Id="ZwRibbonCommandButton" Text="用户管理" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_DA493" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_4C4AA">用户管理</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_B976A" Id="ZwRibbonCommandButton" Text="修改密码" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_F15A7" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_1EDB5">修改密码</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_F2154" Id="ZwRibbonCommandButton" Text="服务器配置" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_0DE53" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_DE1BF">服务器配置</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+      </RibbonRow>
+      <RibbonPanelBreak UID="ID_RPBRK_92F9B" Id="ZwRibbonPanelBreak">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      </RibbonPanelBreak>
+    </RibbonPanelSource>
+  </RibbonPanelSourceCollection>
+  <RibbonTabSourceCollection>
+    <RibbonTabSource Text="市政设计工具箱" UID="ID_RBTS_91650" DisplayType="Full" DefaultDisplay="AddToWorkspace" WorkspaceBehavior="MergeOrAddTab">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <Name xlate="true" UID="ID_RBTS_NM_96C90">市政设计工具箱</Name>
+      <RibbonPanelSourceReference UID="ID_RBPSREF_95F2E" PanelId="ID_RBPS_93A46" ResizeStyle="Default">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      </RibbonPanelSourceReference>
+    </RibbonTabSource>
+  </RibbonTabSourceCollection>
+  <RibbonTabSelectors />
+</RibbonRoot>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<MouseButtonRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ButtonGroup UID="BGU_243_E6ADD">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE AUX1</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_8C805" />
+    <ButtonItem BlankLine="true" UID="BIU_243_A6D30" />
+    <ButtonItem BlankLine="true" UID="BIU_243_FEAEB" />
+    <ButtonItem BlankLine="true" UID="BIU_243_12D9E" />
+    <ButtonItem BlankLine="true" UID="BIU_243_F55A0" />
+    <ButtonItem BlankLine="true" UID="BIU_243_61CBB" />
+    <ButtonItem BlankLine="true" UID="BIU_243_A51BE" />
+  </ButtonGroup>
+  <ButtonGroup UID="BGU_243_0A588">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE AUX2</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_B3B2F" />
+    <ButtonItem BlankLine="true" UID="BIU_243_88196" />
+    <ButtonItem BlankLine="true" UID="BIU_243_77E4A" />
+    <ButtonItem BlankLine="true" UID="BIU_243_B19F2" />
+    <ButtonItem BlankLine="true" UID="BIU_243_6F7A5" />
+    <ButtonItem BlankLine="true" UID="BIU_243_60B44" />
+    <ButtonItem BlankLine="true" UID="BIU_243_436F3" />
+  </ButtonGroup>
+  <ButtonGroup UID="BGU_243_C8ED5">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE AUX3</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_A2CD2" />
+    <ButtonItem BlankLine="true" UID="BIU_243_7F673" />
+    <ButtonItem BlankLine="true" UID="BIU_243_0052F" />
+    <ButtonItem BlankLine="true" UID="BIU_243_D7A0D" />
+    <ButtonItem BlankLine="true" UID="BIU_243_F42B9" />
+    <ButtonItem BlankLine="true" UID="BIU_243_A6F89" />
+    <ButtonItem BlankLine="true" UID="BIU_243_31E74" />
+  </ButtonGroup>
+  <ButtonGroup UID="BGU_243_98F34">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE AUX4</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_45BC4" />
+    <ButtonItem BlankLine="true" UID="BIU_243_A19AE" />
+    <ButtonItem BlankLine="true" UID="BIU_243_87E16" />
+    <ButtonItem BlankLine="true" UID="BIU_243_18EA2" />
+    <ButtonItem BlankLine="true" UID="BIU_243_32892" />
+    <ButtonItem BlankLine="true" UID="BIU_243_6CABE" />
+    <ButtonItem BlankLine="true" UID="BIU_243_9EE8D" />
+  </ButtonGroup>
+</MouseButtonRoot>

@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<!--
+警告！请勿编辑此文件的内容。
+如果试图使用 XML 编辑器来编辑此文件，可能会丢失
+自定义和移植功能。如果需要修改
+自定义文件中的信息，请使用产品中的
+“自定义用户界面”对话框。
+若要访问“自定义用户界面”对话框，请依次单击“工具”菜单、
+“自定义”面板和“用户界面”按钮，或者在命令行中输入 CUI。
+-->
+<MenuGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DPTOOLSET">
+  <MacroGroup Name="NEWGROUP" />
+  <MacroGroup Name="User" Citizen="Z">
+    <MenuMacro UID="ID_MM_CC066">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_BD637">矩形水平屋顶</Name>
+        <Command>^C^CcreateRectangHorizontalRoof</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_C4AA6"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="shuipingwuding.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_8E814">createRectangHorizontalRoof</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_5BE84">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_9F99F">多边形水平屋顶</Name>
+        <Command>^C^CcreatePolygonHorizontalRoof</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_D87D7"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="duobianxingshuipingwuding.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_B6081">createPolygonHorizontalRoof</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_08F00">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_2C17F">单面斜屋顶</Name>
+        <Command>^C^CcreateSingleRoof</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_4B51C"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="danmianxiewuding.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_7260C">createSingleRoof</CLICommand>
+      </Macro>
+    </MenuMacro>
+    <MenuMacro UID="ID_MM_D2047">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">双面斜屋顶</Name>
+        <Command>^C^CcreateDoubleRoof</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="shuangmianxiewuding.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">createDoubleRoof</CLICommand>
+      </Macro>
+    </MenuMacro>
+    
+     <MenuMacro UID="ID_MM_D2048">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">识别采光带</Name>
+        <Command>^C^CSelentElement</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="shibiecaiguangdai.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">SelentElement</CLICommand>
+      </Macro>
+    </MenuMacro>
+     <MenuMacro UID="ID_MM_D2049">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">绘制采光带</Name>
+        <Command>^C^CDrawLightBand</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="huizhicaiguangdai.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">DrawLightBand</CLICommand>
+      </Macro>
+    </MenuMacro>
+     <MenuMacro UID="ID_MM_D2050">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">布置采光带</Name>
+        <Command>^C^ClayoutLightBand</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="buzhicaiguangdai.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">layoutLightBand</CLICommand>
+      </Macro>
+    </MenuMacro>
+     <MenuMacro UID="ID_MM_D2051">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">长方体</Name>
+        <Command>^C^CcreateBox</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="changfangti.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">createBox</CLICommand>
+      </Macro>
+    </MenuMacro>
+     <MenuMacro UID="ID_MM_D2052">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">圆柱体</Name>
+        <Command>^C^CcreateCylinder</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="yuanzhuti.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">createCylinder</CLICommand>
+      </Macro>
+    </MenuMacro>
+     <MenuMacro UID="ID_MM_D2053">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">正多边体</Name>
+        <Command>^C^CcreateRegularPolygon</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="zhengduobianxing.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">createRegularPolygon</CLICommand>
+      </Macro>
+    </MenuMacro>
+     <MenuMacro UID="ID_MM_D2054">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">特殊构筑物</Name>
+        <Command>^C^CcreateRoofRelativeBuilding</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="teshugouzhuwu.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">createRoofRelativeBuilding</CLICommand>
+      </Macro>
+    </MenuMacro>
+     <MenuMacro UID="ID_MM_D2055">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">女儿墙</Name>
+        <Command>^C^CcreateParapet</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="nverqiang.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">createParapet</CLICommand>
+      </Macro>
+    </MenuMacro>
+        <MenuMacro UID="ID_MM_D2056">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">屋顶编号</Name>
+        <Command>^C^CcreateRoofDim</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="wudinbianhao.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">createRoofDim</CLICommand>
+      </Macro>
+    </MenuMacro>
+        <MenuMacro UID="ID_MM_D2057">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">可布置区域</Name>
+        <Command>^C^CcreateLayoutArea</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="kebuzhiquyu.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">createLayoutArea</CLICommand>
+      </Macro>
+    </MenuMacro>
+        <MenuMacro UID="ID_MM_D2058">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">不可布置区域</Name>
+        <Command>^C^CcreateNonLayoutArea</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="bukebuzhiquyu.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">createNonLayoutArea</CLICommand>
+      </Macro>
+    </MenuMacro>
+        <MenuMacro UID="ID_MM_D2059">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">布置电池板</Name>
+        <Command>^C^CdeployPanel</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="buzhidianchiban.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">deployPanel</CLICommand>
+      </Macro>
+    </MenuMacro>
+        <MenuMacro UID="ID_MM_D2060">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">布置支架</Name>
+        <Command>^C^ClayoutBracket</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="buzhizhijia.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">layoutBracket</CLICommand>
+      </Macro>
+    </MenuMacro>
+        <MenuMacro UID="ID_MM_D2061">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">布置导轨</Name>
+        <Command>^C^ClayoutRail</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="buzhidaogui.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">layoutRail</CLICommand>
+      </Macro>
+    </MenuMacro>
+        <MenuMacro UID="ID_MM_D2062">
+      <Macro type="Any">
+        <Revision MajorVersion="16" MinorVersion="2" UserVersion="0" />
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <Name xlate="true" UID="ID_MM_NM_41BA1">阴影分析</Name>
+        <Command>^C^CshadowAnalysis</Command>
+        <HelpString xlate="true" UID="ID_MM_HS_5E676"></HelpString>
+        <SmallImage Name="" />
+        <LargeImage Name="yinyingfenxi.png" />
+        <CLICommand xlate="true" UID="ID_MM_CLIC_E7EAC">shadowAnalysis</CLICommand>
+      </Macro>
+    </MenuMacro>
+ 
+  </MacroGroup>
+</MenuGroup>

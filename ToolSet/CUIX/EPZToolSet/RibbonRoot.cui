@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!--
+警告！请勿编辑此文件的内容。
+如果试图使用 XML 编辑器来编辑此文件，可能会丢失
+自定义和移植功能。如果需要修改
+自定义文件中的信息，请使用产品中的
+“自定义用户界面”对话框。
+若要访问“自定义用户界面”对话框，请依次单击“工具”菜单、
+“自定义”面板和“用户界面”按钮，或者在命令行中输入 CUI。
+-->
+<RibbonRoot>
+  <RibbonPanelSourceCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <RibbonPanelSource UID="ID_RBPS_93A46" Text="设计中心" HiddenInEditor="false">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <Name xlate="true" UID="ID_RBPS_NM_F2524">防爆区辅助工具箱</Name>
+      <DialogBoxLauncher UID="ID_RBPS_DBLR_3FD0C" CommandID="" CommandType="Macro">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="0" />
+      </DialogBoxLauncher>
+      <RibbonRow UID="ID_RBRW_CCE01">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        <RibbonCommandButton UID="ID_RBTN_9EB7A" Id="AcRibbonCommandButton" Text="设备管理" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_CC066" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_403EA">设备管理</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        
+        <RibbonCommandButton UID="ID_RBTN_9EB7A" Id="AcRibbonCommandButton" Text="设置比例" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_BV765" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_403EA">设置比例</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_9EB7A" Id="AcRibbonCommandButton" Text="设置爆炸区填充&#xD;是否合并" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_BG973" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_403EA">设置爆炸区填充是否合并</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_9EB7A" Id="AcRibbonCommandButton" Text="设置填充样式" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_5YU75" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_403EA">设置填充样式</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+  			
+        <RibbonSeparator UID="ID_RSPTR_A2A15" Id="AcRibbonSeparator" SeparatorStyle="Line">
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonSeparator>
+        <RibbonCommandButton UID="ID_RBTN_F0C46" Id="AcRibbonCommandButton" Text="爆炸性气体&#xD;释放源定义" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_5BE84" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_59BD4">爆炸性气体释放源定义</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_ED972" Id="AcRibbonCommandButton" Text="爆炸性粉尘&#xD;释放源定义" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_C5T154" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_E4618">爆炸性粉尘释放源定义</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_5BEFA" Id="AcRibbonCommandButton" Text="生成平面区域" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_08F00" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_2972D">生成平面区域</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonSeparator UID="ID_RSPTR_A2A15" Id="AcRibbonSeparator" SeparatorStyle="Line">
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonSeparator>
+        <RibbonCommandButton UID="ID_RBTN_51AD4" Id="AcRibbonCommandButton" Text="常规立面设计" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_D2047" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_19BCA">常规立面设计</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        	<RibbonCommandButton UID="ID_RBTN_F0B52" Id="AcRibbonCommandButton" Text="储罐立面设计" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_C3A73" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_E18C8">储罐立面设计</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        	<RibbonCommandButton UID="ID_RBTN_077B9" Id="AcRibbonCommandButton" Text="开顶罐或&#xD;池立面设计" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_4E7E8" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_2535D">开顶罐或池立面设计</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+					<RibbonCommandButton UID="ID_RBTN_ED972" Id="AcRibbonCommandButton" Text=" 压缩机厂房&#xD;立面设计" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_EF457" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_E4618"> 压缩机厂房立面设计</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+           <RibbonCommandButton UID="ID_RBTN_ED972" Id="AcRibbonCommandButton" Text="爆炸性粉尘&#xD;立面设计" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_F5T241" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_E4618">爆炸性粉尘立面设计</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+           <RibbonCommandButton UID="ID_RBTN_B10BE" Id="AcRibbonCommandButton" Text="生成立面区域" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_E22A8" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_81747">生成立面区域</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonSeparator UID="ID_RSPTR_A2A15" Id="AcRibbonSeparator" SeparatorStyle="Line">
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonSeparator>
+        <RibbonCommandButton UID="ID_RBTN_28D30" Id="AcRibbonCommandButton" Text="封闭区域定义" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_4T5A4" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_92FC6">封闭区域定义</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        
+        	<RibbonCommandButton UID="ID_RBTN_5298B" Id="AcRibbonCommandButton" Text="防爆区合并" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_4U5B8" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_C7DD5">防爆区合并</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_5298B" Id="AcRibbonCommandButton" Text="规范图例调用" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_5K8L9" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_C7DD5">规范图例调用</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+          	<RibbonCommandButton UID="ID_RBTN_5298B" Id="AcRibbonCommandButton" Text="移除释放源" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_FT5Y6" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_C6T43">移除释放源</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_5298B" Id="AcRibbonCommandButton" Text="释放源统计" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_6F7G4" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_C7DD5">释放源统计</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+          <RibbonCommandButton UID="ID_RBTN_19706" Id="AcRibbonCommandButton" Text="防爆区尺寸标注" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_DA493" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_4C4AA">防爆区尺寸标注</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+          <RibbonCommandButton UID="ID_RBTN_F2154" Id="AcRibbonCommandButton" Text="气体等级标注" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_0DE53" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_DE1BF">气体等级标注</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonCommandButton UID="ID_RBTN_9EB7A" Id="AcRibbonCommandButton" Text="设备放置标注" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_GX528" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_403EA">设备放置标注</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        <RibbonSeparator UID="ID_RSPTR_A2A15" Id="AcRibbonSeparator" SeparatorStyle="Line">
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonSeparator>
+         <RibbonCommandButton UID="ID_RBTN_19706" Id="AcRibbonCommandButton" Text="导入XML" ButtonStyle="LargeWithText" MenuMacroID="IID_MM_DW7P9" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_4C4AA">导入XML</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+          <RibbonCommandButton UID="ID_RBTN_F2154" Id="AcRibbonCommandButton" Text="导出XML" ButtonStyle="LargeWithText" MenuMacroID="ID_MM_9F6B3" KeyTip="">
+          <TooltipTitle xlate="true" UID="ID_RBTT_DE1BF">导出XML</TooltipTitle>
+          <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+        </RibbonCommandButton>
+        
+      </RibbonRow>
+      <RibbonPanelBreak UID="ID_RPBRK_92F9B" Id="AcRibbonPanelBreak">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      </RibbonPanelBreak>
+    </RibbonPanelSource>
+  </RibbonPanelSourceCollection>
+  <RibbonTabSourceCollection>
+    <RibbonTabSource Text="防爆区辅助工具箱" UID="ID_RBTS_91650" DisplayType="Full" DefaultDisplay="AddToWorkspace" WorkspaceBehavior="MergeOrAddTab">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <Name xlate="true" UID="ID_RBTS_NM_96C90">防爆区辅助工具箱</Name>
+      <RibbonPanelSourceReference UID="ID_RBPSREF_95F2E" PanelId="ID_RBPS_93A46" ResizeStyle="Default">
+        <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      </RibbonPanelSourceReference>
+    </RibbonTabSource>
+  </RibbonTabSourceCollection>
+  <RibbonTabSelectors />
+</RibbonRoot>

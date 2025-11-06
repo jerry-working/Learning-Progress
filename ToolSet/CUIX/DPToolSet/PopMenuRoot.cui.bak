@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!--
+警告！请勿编辑此文件的内容。
+如果试图使用 XML 编辑器来编辑此文件，可能会丢失
+自定义和移植功能。如果需要修改
+自定义文件中的信息，请使用产品中的
+“自定义用户界面”对话框。
+若要访问“自定义用户界面”对话框，请依次单击“工具”菜单、
+“自定义”面板和“用户界面”按钮，或者在命令行中输入 CUI。
+-->
+<PopMenuRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PopMenu hasDiesel="false" UID="ID_PM_8CA66">
+    <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+    <Alias>POP1</Alias>
+    <Name xlate="true" UID="ID_PM_NM_1432E">中车设计工具箱</Name>
+    <Description xlate="true" UID="ID_PM_DSCRP_7B66C" />
+    
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_F15FC">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_7ABFB" xlate="true">矩形水平屋顶</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_CC066" />
+      </MenuItem>
+    </PopMenuItem>
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_84094">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_6989B" xlate="true">多边形水平屋顶</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_5BE84" />
+      </MenuItem>
+    </PopMenuItem>
+  
+    <PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_03E55">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_F9C99" xlate="true">单面斜屋顶</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_08F00" />
+      </MenuItem>
+    </PopMenuItem>
+	<PopMenuItem IsSeparator="false" hasDiesel="false" UID="ID_PMI_63EA4">
+      <ModifiedRev MajorVersion="0" MinorVersion="0" UserVersion="1" />
+      <NameRef UID="ID_PMI_NMREF_817F8" xlate="true">双面斜屋顶</NameRef>
+      <MenuItem>
+        <MacroRef MenuMacroID="ID_MM_D2047" />
+      </MenuItem>
+    </PopMenuItem>
+  </PopMenu>
+</PopMenuRoot>

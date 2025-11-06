@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!--
+警告！请勿编辑此文件的内容。
+如果试图使用 XML 编辑器来编辑此文件，可能会丢失
+自定义和移植功能。如果需要修改
+自定义文件中的信息，请使用产品中的
+“自定义用户界面”对话框。
+若要访问“自定义用户界面”对话框，请依次单击“工具”菜单、
+“自定义”面板和“用户界面”按钮，或者在命令行中输入 CUI。
+-->
+<DigitizerButtonRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ButtonGroup UID="BGU_243_2D669">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE BUTTONS1</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_6E3D6">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </ButtonItem>
+  </ButtonGroup>
+  <ButtonGroup UID="BGU_243_F50E4">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE BUTTONS2</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_2ECD9">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </ButtonItem>
+  </ButtonGroup>
+  <ButtonGroup UID="BGU_243_E7484">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE BUTTONS3</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_93255">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </ButtonItem>
+  </ButtonGroup>
+  <ButtonGroup UID="BGU_243_4A19F">
+    <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    <Alias>ALTERNATE BUTTONS4</Alias>
+    <ButtonItem BlankLine="true" UID="BIU_243_D4F50">
+      <ModifiedRev MajorVersion="24" MinorVersion="3" UserVersion="1" />
+    </ButtonItem>
+  </ButtonGroup>
+</DigitizerButtonRoot>
